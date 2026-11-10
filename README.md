@@ -1,6 +1,7 @@
 # Strand — AI Agency
 
 A concept website for **Strand**, an AI agency that designs, builds and runs AI agents. One continuous line draws itself through every section as you scroll.
+**Live demo:** https://hadiscript.github.io/strand/
 
 **Stack:** React 19 · TypeScript · Vite · GSAP + ScrollTrigger · Lenis
 
